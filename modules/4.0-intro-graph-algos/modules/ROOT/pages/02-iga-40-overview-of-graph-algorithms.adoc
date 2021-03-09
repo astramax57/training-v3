@@ -436,7 +436,7 @@ ifndef::env-slides,backend-pdf[]
 |image:multipartite-graph.png[Multipartite graph]
 |A multipartite graph consists of many independent sets of nodes.
  In Neo4j terms, it means we have nodes with many labels.
- This is an example of a bipartite graph, where we have *Person* and *Company* labels for nodes.
+ This is an example (need to be edited?) of a bipartite graph, where we have *Person* and *Company* labels for nodes.
 |===
 {set:cellbgcolor!}
 endif::[]
